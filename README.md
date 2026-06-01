@@ -40,24 +40,34 @@ cyber-security/
 
 ## projects
 
-| Name | Level |
-| :--- | ---: |
-| [Port Scanning With Nmap]()|
-| Network Packet Analysis |Beginner|
-| MAC Address Spoofing |
-|...|
-| Building A Vulnurability Scanner In Python |
-| Priviledge Escalation |Intermediate|
-| Metasploit Basics |
-|...|
-| Advanced Buffer Overflow Exploitations | 
-| Exploit Vulnurable APIs |Advanced|
-| CSRF Automation |
-|...|
-| Osfcations for evasions | 
-| Zero day Innitiatives | More data |Insane|
-|New Algorithms |
-|...|
+### beginner
+|#| Name | 
+| :--- | :--- | 
+| 1| [Port Scanning With Nmap](/projects/e-001/README.md)|
+| 2| Network Packet Analysis |Beginner|
+| 3| MAC Address Spoofing |
+
+### intermediate
+| #|Name | 
+|:---| :--- | 
+| 1| Building A Vulnurability Scanner In Python |
+| 2| Priviledge Escalation |Intermediate|
+| 3| Metasploit Basics |
+
+### advanced
+| #|Name | 
+|:---|:--- | 
+| 1|Advanced Buffer Overflow Exploitations | 
+| 2|Exploit Vulnurable APIs |Advanced|
+| 3|CSRF Automation |
+
+### insane
+| #|Name | 
+| :---|:--- | 
+| 1|Osfcations for evasions | 
+| 2|Zero day Innitiatives | 
+| 3|New Algorithms |
+
 
 ## CVEs
    
